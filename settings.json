@@ -1,0 +1,5 @@
+{
+  "prefix": "!",
+  "log-channel": "mod-log",
+  "warnsUntilBan": 4
+}
